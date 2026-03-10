@@ -1,0 +1,7 @@
+INFO:root:El usuario introdujo el país: España
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): restcountries.com:443
+DEBUG:urllib3.connectionpool:https://restcountries.com:443 "GET /v2/name/Espa%C3%B1a HTTP/1.1" 200 999
+INFO:root:El usuario introdujo el país: España
+INFO:root:Enviando la siguiente información al usuario: Información sobre Spain:
+Capital: Madrid
+Población: 47351567
